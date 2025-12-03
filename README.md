@@ -21,6 +21,7 @@ You may and probably will encounter difficulties when rooting, flashing custom R
 - [Device variants](#versions)
     - [Hardware variants](#hardware-versions)
     - [Software variants (ROMs)](#software-versions)
+        - [Privacy Concerns](#privacy-concerns)
     - [Differences](#differences)
     - [Custom ROMs](#custom-roms)
 - [Hardware modes](#hardware-modes)
@@ -88,7 +89,7 @@ The phone comes with at least three different ROM versions:
 - **Hacked Version:** Chinese + English, bootloader unlocked, Google Play present, supposedly Google certified.
 - **International ROM:** Multi-language support, bootloader unlocked, Google Play present, NOT Google certified.
 
-**Privacy concerns**
+#### **Privacy concerns**
 These stock ROMs are not to be trusted as they send suspicious packets directly to China.
 Some of them were sent to NTP servers in China which isn't that strange but others point to duoqin.com, miui.com and others.
 A list of all URLs that are/ can be sent information:
